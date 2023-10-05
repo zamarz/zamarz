@@ -21,7 +21,7 @@
 
 I'm a software developer from the UK 👋
 
-- 👀 I'm aiming to be a Full Stack Developer and am currently searching for my first role where I can build exciting applications
+- 👀 I'm currently searching for a role where I can build exciting applications
 - :seedling: I love learning about new things and am looking to dive deeper into the tech world
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://uk.linkedin.com/in/zachmarzouk)
 
