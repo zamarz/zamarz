@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=zamarz&style=flat-square&color=blue" alt="Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=zamarz&style=plastic&color=blue" alt="Views Counter"/>
 <h1> Hi, I'm Zach 
 </h1>
 </div>
