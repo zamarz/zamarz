@@ -15,7 +15,6 @@
 <h1> Hi, I'm Zach 
 </h1>
 </div>
- <img src="https://komarev.com/ghpvc/?username=zamarz&style=flat-square&color=blue" alt="Views Counter"/>
 
 ---
 ### :technologist: About Me :
